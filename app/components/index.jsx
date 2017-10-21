@@ -1,0 +1,9 @@
+export {default as Campuses} from './Campuses';
+export {default as Home} from './Home';
+export {default as SingleCampus} from './SingleCampus';
+export {default as SingleStudent} from './SingleStudent';
+export {default as Students} from './Students';
+export {default as Main} from './Main';
+export {default as AddCampus} from './AddCampus';
+export {default as DeleteStudent} from './DeleteStudent';
+export {default as AddStudent} from './AddStudent';
